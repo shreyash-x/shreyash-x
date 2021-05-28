@@ -1,29 +1,26 @@
 ## Hi there! <img src="wave.gif" width="32px">
 <hr>
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning html, css and java
-- 😄 Pronouns: He/him
+<ul>
+  <li>🔭 I’m currently working on front-end development</li>
+  <li>🌱 I’m currently learning html, css and java</li>
+  <li>😄 Pronouns: He/him</li>
+</ul>
 <br>
-<a href="https://github.com/shreyash-x/shreyash-x">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-x&layout=compact&title_color=CCD6F6&text_color=CCD6F6&icon_color=2bbc8a&bg_color=22272E&hide_border=1&border_radius=15&custom_title=Languages" />
-</a>
+<p align="center">
 <a href="https://github.com/shreyash-x/shreyash-x">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-x&show_icons=true&count_private=true&title_color=CCD6F6&text_color=CCD6F6&icon_color=7276fd&bg_color=22272E&hide=issues&hide_border=1&border_radius=15&custom_title=Stats" />
 </a>
+</p>
 <br>
-<!-- Actual text -->
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://simpleicons.org/icons/instagram.svg
-[2.2]: https://simpleicons.org/icons/linkedin.svg
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.instagram.com/shreyash.x/
-[2]: https://www.linkedin.com/in/shreyash-jain-39b840204/
+  <p align="center">
+    <a href="https://www.instagram.com/shreyash.x/" alt="Instagram"><img src="https://simpleicons.org/icons/instagram.svg" width="30px"></a>
+    <a href="https://www.linkedin.com/in/shreyash-jain-39b840204/" alt="Linkedin"><img src="https://simpleicons.org/icons/linkedin.svg" width="30px"></a>
+  </p>
+</p>
 
 <!--
 **shreyash-x/shreyash-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
