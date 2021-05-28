@@ -1,4 +1,12 @@
 ## Hi there! <img src="wave.gif" width="32px">
+<hr>
+<br>
+<a href="https://github.com/shreyash-x/shreyash-x">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-x&layout=compact&title_color=CCD6F6&text_color=CCD6F6&icon_color=2bbc8a&bg_color=22272E&hide_border=1&border_radius=15&custom_title=Languages" />
+</a>
+<a href="https://github.com/shreyash-x/shreyash-x">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-x&show_icons=true&count_private=true&title_color=CCD6F6&text_color=CCD6F6&icon_color=7276fd&bg_color=22272E&hide=issues&hide_border=1&border_radius=15&custom_title=Stats" />
+</a>
 
 <!--
 **shreyash-x/shreyash-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
