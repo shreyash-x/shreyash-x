@@ -1,4 +1,4 @@
-### Hi there! <img src="wave.gif" style="width:12px;">
+## Hi there! <img src="wave.gif" width="15px">
 
 <!--
 **shreyash-x/shreyash-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
