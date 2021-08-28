@@ -45,7 +45,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-x&hide=issues&count_private=true&show_icons=true&repo=github-readme-stats&show_icons=true&theme=radical" />
   <br/> 
    <br/>
-<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishabhambri&layout=compact&theme=radical" />
+<img align="center" alt="Language Cards" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash-x&layout=compact&theme=radical" />
   <br/> 
    <br/>
 <img align="center" src="https://komarev.com/ghpvc/?username=shreyash-x" />  
